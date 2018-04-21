@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Layout Example</string>
+    <string name="state_uni">State University</string>
+    <string name="since_year">------Since 1935------</string>
+</resources>

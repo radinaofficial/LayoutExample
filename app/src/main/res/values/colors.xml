@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBackground">#383f47</color>
+    <color name="white">#ffffff</color>
+    <color name="about_us">#008ddf</color>
+    <color name="events">#f25f3e</color>
+    <color name="curriculum">#885ca9</color>
+    <color name="news">#00aa90</color>
+    <color name="sports">#d43d44</color>
+    <color name="contacts">#018ab8</color>
+    <color name="facebook">#2e4e99</color>
+    <color name="twitter">#30aaf3</color>
+</resources>
